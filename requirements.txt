@@ -1,4 +1,4 @@
-future
+Infuture
 emoji
 beautifulsoup4
 requests
@@ -25,3 +25,5 @@ wikipedia
 pyowm
 tabulate
 parsel
+google_trans_new
+#googletrans
